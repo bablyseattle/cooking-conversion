@@ -1,6 +1,6 @@
 # Cooking Conversions
 
-#### _Epicodus Practice in JavaScript, August 7, 2017
+#### Epicodus Practice in JavaScript, August 7, 2017
 
 #### By Bably Kumari, Kelsey Langlois
 
